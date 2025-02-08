@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>繁星</title>
+        <title>繁星博客</title>
         <link>https://sammet-h.github.io/</link>
-        <description>Recent content on 繁星</description>
+        <description>Recent content on 繁星博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>繁星</copyright>
-        <lastBuildDate>Sat, 08 Feb 2025 19:01:52 +0800</lastBuildDate><atom:link href="https://sammet-h.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Feb 2025 22:29:56 +0800</lastBuildDate><atom:link href="https://sammet-h.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Uart</title>
+        <link>https://sammet-h.github.io/p/uart/</link>
+        <pubDate>Sat, 08 Feb 2025 22:29:56 +0800</pubDate>
+        
+        <guid>https://sammet-h.github.io/p/uart/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Gpio</title>
         <link>https://sammet-h.github.io/p/gpio/</link>
         <pubDate>Sat, 08 Feb 2025 19:01:52 +0800</pubDate>
