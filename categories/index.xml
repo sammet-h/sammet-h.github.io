@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>繁星</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sammet-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 08 Feb 2025 19:01:52 +0800</lastBuildDate><atom:link href="https://sammet-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ESP32</title>
+        <link>https://sammet-h.github.io/categories/esp32/</link>
+        <pubDate>Sat, 08 Feb 2025 19:01:52 +0800</pubDate>
+        
+        <guid>https://sammet-h.github.io/categories/esp32/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://sammet-h.github.io/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>

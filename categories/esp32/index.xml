@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ESP32 on 繁星博客</title>
+        <link>https://sammet-h.github.io/categories/esp32/</link>
+        <description>Recent content in ESP32 on 繁星博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>繁星</copyright>
+        <lastBuildDate>Sat, 08 Feb 2025 19:01:52 +0800</lastBuildDate><atom:link href="https://sammet-h.github.io/categories/esp32/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GPIO</title>
+        <link>https://sammet-h.github.io/p/gpio/</link>
+        <pubDate>Sat, 08 Feb 2025 19:01:52 +0800</pubDate>
+        
+        <guid>https://sammet-h.github.io/p/gpio/</guid>
+        <description>&lt;h3 id=&#34;gpio介绍&#34;&gt;GPIO介绍
+&lt;/h3&gt;&lt;p&gt;ESP32 芯片有 34 个物理 GPIO pad。每个 pad 都可用作一个通用 IO，或连接一个内部的外设信号。IO_MUX、&lt;/p&gt;
+&lt;p&gt;RTC IO_MUX 和 GPIO 交换矩阵用于将信号从外设传输至 GPIO pad。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注意：这 34 个物理GPIO pad 的序列号为：0-19, 21-23, 25-27, 32-39。其中 GPIO 34-39 仅用作输入管脚，其他的既可以作为输入又可以作为输出管脚。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sammet-h.github.io/p/gpio/image-20250208232831408.png&#34;
+	width=&#34;660&#34;
+	height=&#34;421&#34;
+	srcset=&#34;https://sammet-h.github.io/p/gpio/image-20250208232831408_hu15977640997086002380.png 480w, https://sammet-h.github.io/p/gpio/image-20250208232831408_hu8198920189679976214.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;ESP32 GPIO架构图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;156&#34;
+		data-flex-basis=&#34;376px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
