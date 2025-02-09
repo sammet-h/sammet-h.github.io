@@ -14,7 +14,9 @@
         
         <guid>https://sammet-h.github.io/p/gpio/</guid>
         <description>&lt;h3 id=&#34;gpio介绍&#34;&gt;GPIO介绍
-&lt;/h3&gt;&lt;p&gt;ESP32 芯片有 34 个物理 GPIO pad。每个 pad 都可用作一个通用 IO，或连接一个内部的外设信号。IO_MUX、&lt;/p&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;ESP32 芯片有 34 个物理 GPIO pad。每个 pad 都可用作一个通用 IO，或连接一个内部的外设信号。IO_MUX、&lt;/p&gt;
 &lt;p&gt;RTC IO_MUX 和 GPIO 交换矩阵用于将信号从外设传输至 GPIO pad。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;注意：这 34 个物理GPIO pad 的序列号为：0-19, 21-23, 25-27, 32-39。其中 GPIO 34-39 仅用作输入管脚，其他的既可以作为输入又可以作为输出管脚。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://sammet-h.github.io/p/gpio/image-20250208232831408.png&#34;
@@ -31,6 +33,10 @@
 		data-flex-basis=&#34;376px&#34;
 	
 &gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!TIP]
+这是markdown的引用块语法&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         
